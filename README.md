@@ -1,5 +1,8 @@
 Using
 
-ZError.message({
-    error: errorVariable
-})
+```javascript
+    ZError.message({
+        error: errorVariable
+    })
+```
+
